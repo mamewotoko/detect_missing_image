@@ -1,5 +1,6 @@
 Detect missing image in HTML
 =============================
+Detect missing image in HTML using google chrome web driver.
 
 Prepare
 ---------
