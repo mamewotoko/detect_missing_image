@@ -20,3 +20,4 @@ if __name__ == '__main__':
             print(line['message'])
     finally:
         driver.close()
+
