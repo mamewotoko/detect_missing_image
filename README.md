@@ -18,7 +18,7 @@ Run
 2. browser log is diplayed to stdout
 
 ```
-file:///Users/xxx/dtect_missing_image/test/hello.png - Failed to load resource: net::ERR_FILE_NOT_FOUND
+file:///Users/xxx/detect_missing_image/test/hello.png - Failed to load resource: net::ERR_FILE_NOT_FOUND
 ```
 
 chrome_screenshot.png is screen capture of chrome.
